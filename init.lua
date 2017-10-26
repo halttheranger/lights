@@ -16,7 +16,7 @@ minetest.register_node("lights:magic", {
 	groups = {snappy=2,cracky=3,},
 })
 
-minetest.register_node("lights:rainbow_1", {
+minetest.register_node("lights:nyan", {
 	description = "Rainbow Lamp",
 	tiles = {"arainbow.png^rainbowrune.png"},
 	drawtype = 'normal',
@@ -28,7 +28,7 @@ minetest.register_node("lights:rainbow_1", {
 	
 })
 
-minetest.register_node("lights:rainbow_2", {
+minetest.register_node("lights:rainbow", {
 	description = "Ranbow Lamp",
 	tiles = {"rainbow.png^rainbowrune.png"},
 	drawtype = 'normal',
