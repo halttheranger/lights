@@ -171,158 +171,158 @@ minetest.register_node("lights:white2", {
 
 
 
-minetest.register_craft({
-        output = 'lights:white 2',
-        recipe = {
-                {'', 'default:torch', ''},
-                {'', 'default:stone', ''},
-                {'dye:white', '', 'dye:white'},
-        }
-})
+--minetest.register_craft({
+--        output = 'lights:white 2',
+--        recipe = {
+--                {'', 'default:torch', ''},
+--                {'', 'default:stone', ''},
+--                {'dye:white', '', 'dye:white'},
+--        }
+--})
 
 
 
 
-minetest.register_craft({
-        output = 'lights:white2 2',
-        recipe = {
-                {'', 'default:torch', ''},
-                {'', 'default:stone', ''},
-                {'', 'dye:white', ''},
-        }
-})
+--minetest.register_craft({
+--        output = 'lights:white2 2',
+--        recipe = {
+--                {'', 'default:torch', ''},
+--                {'', 'default:stone', ''},
+--                {'', 'dye:white', ''},
+--        }
+--})
 
 
 
 
-minetest.register_craft({
-        output = 'lights:red 2',
-        recipe = {
-                {'', 'default:torch', ''},
-                {'', 'default:stone', ''},
-                {'', 'dye:red', ''},
-        }
-})
+--minetest.register_craft({
+--        output = 'lights:red 2',
+--        recipe = {
+--                {'', 'default:torch', ''},
+--                {'', 'default:stone', ''},
+--                {'', 'dye:red', ''},
+--        }
+--})
 
 
 
 
-minetest.register_craft({
-        output = 'lights:yellow 2',
-        recipe = {
-                {'', 'default:torch', ''},
-                {'', 'default:stone', ''},
-                {'', 'dye:yellow', ''},
-        }
-})
+--minetest.register_craft({
+--        output = 'lights:yellow 2',
+--        recipe = {
+--                {'', 'default:torch', ''},
+--                {'', 'default:stone', ''},
+--                {'', 'dye:yellow', ''},
+--        }
+--})
 
 
 
 
-minetest.register_craft({
-        output = 'lights:blue 2',
-        recipe = {
-                {'', 'default:torch', ''},
-                {'', 'default:glass', ''},
-                {'dye:blue', 'dye:blue', 'dye:blue'},
-        }
-})
+---minetest.register_craft({
+---        output = 'lights:blue 2',
+---        recipe = {
+---                {'', 'default:torch', ''},
+---                {'', 'default:glass', ''},
+---                {'dye:blue', 'dye:blue', 'dye:blue'},
+---        }
+---})
 
 
 
 
-minetest.register_craft({
-        output = 'lights:green 2',
-        recipe = {
-                {'', 'default:torch', ''},
-                {'', 'default:glass', ''},
-                {'dye:green', 'dye:black', 'dye:green'},
-        }
-})
+--minetest.register_craft({
+--        output = 'lights:green 2',
+--        recipe = {
+--                {'', 'default:torch', ''},
+--                {'', 'default:glass', ''},
+--                {'dye:green', 'dye:black', 'dye:green'},
+--        }
+--})
 
 
 
 
-minetest.register_craft({
-        output = 'lights:fire 2',
-        recipe = {
-                {'', 'default:torch', ''},
-                {'', 'default:glass', ''},
-                {'dye:red', 'dye:yellow', 'dye:red'},
-        }
-})
+--minetest.register_craft({
+--        output = 'lights:fire 2',
+--        recipe = {
+--                {'', 'default:torch', ''},
+--                {'', 'default:glass', ''},
+--                {'dye:red', 'dye:yellow', 'dye:red'},
+--        }
+--})
 
 
 
 
-minetest.register_craft({
-        output = 'lights:darkfire 2',
-        recipe = {
-                {'', 'default:torch', ''},
-                {'', 'default:glass', ''},
-                {'dye:black', 'dye:red', 'dye:black'},
-        }
-})
+--minetest.register_craft({
+--        output = 'lights:darkfire 2',
+--        recipe = {
+--                {'', 'default:torch', ''},
+--                {'', 'default:glass', ''},
+--                {'dye:black', 'dye:red', 'dye:black'},
+--        }
+--})
 
 
 
 
-minetest.register_craft({
-        output = 'lights:rainbow 75',
-        recipe = {
-                {'', '', ''},
-                {'', 'nyancat:nyancat', ''},
-                {'', '', ''},
-        }
-})
+--minetest.register_craft({
+--        output = 'lights:rainbow 75',
+--        recipe = {
+--                {'', '', ''},
+--                {'', 'nyancat:nyancat', ''},
+--                {'', '', ''},
+--        }
+--})
 
 
 
 
-minetest.register_craft({
-        output = 'lights:nyan 25',
-        recipe = {
-                {'', '', ''},
-                {'', 'nyancat:nyancat_rainbow', ''},
-                {'', '', ''},
-        }
-})
+--minetest.register_craft({
+--        output = 'lights:nyan 25',
+--        recipe = {
+--                {'', '', ''},
+--                {'', 'nyancat:nyancat_rainbow', ''},
+--                {'', '', ''},
+--        }
+--})
 
 
 
 
-minetest.register_craft({
-        output = 'lights:magic 2',
-        recipe = {
-                {'', 'default:torch', ''},
-                {'', 'default:stone', ''},
-                {'', 'dye:black', ''},
-        }
-})
+--minetest.register_craft({
+--        output = 'lights:magic 2',
+--        recipe = {
+--                {'', 'default:torch', ''},
+--                {'', 'default:stone', ''},
+--                {'', 'dye:black', ''},
+--        }
+--})
 
 
 
 
-minetest.register_craft({
-        output = 'lights:gold 5',
-        recipe = {
-                {'', 'default:torch', ''},
-                {'', 'default:goldblock', ''},
-                {'', '', ''},
-        }
-})
+--minetest.register_craft({
+--        output = 'lights:gold 5',
+--        recipe = {
+--                {'', 'default:torch', ''},
+--                {'', 'default:goldblock', ''},
+--                {'', '', ''},
+--        }
+--})
 
 
 
 
-minetest.register_craft({
-        output = 'lights:ice 2',
-        recipe = {
-                {'', 'default:torch', ''},
-                {'', 'default:ice', ''},
-                {'', '', ''},
-        }
-})
+--minetest.register_craft({
+--        output = 'lights:ice 2',
+--        recipe = {
+--                {'', 'default:torch', ''},
+--                {'', 'default:ice', ''},
+--                {'', '', ''},
+--        }
+--})
 
 
 
@@ -442,96 +442,96 @@ minetest.register_node("lights:steel", {
 
 
 
-minetest.register_craft({
-	output = 'lights:ironbox 5',
-	recipe = {
-		{'default:torch', 'default:steel_ingot', 'default:torch'},
-		{'default:steel_ingot', 'default:glass', 'default:steel_ingot'},
-		{'default:torch', 'default:steel_ingot', 'default:torch'},
-	}
-})
+--minetest.register_craft({
+--	output = 'lights:ironbox 5',
+--	recipe = {
+--		{'default:torch', 'default:steel_ingot', 'default:torch'},
+--		{'default:steel_ingot', 'default:glass', 'default:steel_ingot'},
+--		{'default:torch', 'default:steel_ingot', 'default:torch'},
+--	}
+--})
 
 
 
-minetest.register_craft({
-        output = 'lights:wood2 2',
-        recipe = {
-                {'default:torch', 'default:stick', 'default:torch'},
-                {'default:stick', 'default:glass', 'default:stick'},
-                {'default:torch', 'default:stick', 'default:torch'},
-        }
-})
+--minetest.register_craft({
+--        output = 'lights:wood2 2',
+--        recipe = {
+--                {'default:torch', 'default:stick', 'default:torch'},
+--                {'default:stick', 'default:glass', 'default:stick'},
+--                {'default:torch', 'default:stick', 'default:torch'},
+--        }
+--})
 
 
 
-minetest.register_craft({
-        output = 'lights:steel 9',
-        recipe = {
-                {'', 'default:glass', ''},
-                {'default:glass', 'default:steelblock', 'default:glass'},
-                {'', 'default:glass', ''},
-        }
-})
+--minetest.register_craft({
+--        output = 'lights:steel 9',
+--        recipe = {
+--                {'', 'default:glass', ''},
+--                {'default:glass', 'default:steelblock', 'default:glass'},
+--                {'', 'default:glass', ''},
+--        }
+--})
 
 
 
-minetest.register_craft({
-        output = 'lights:woodbox 2',
-        recipe = {
-                {'', 'default:torch', ''},
-                {'default:glass', 'group:wood', 'default:glass'},
-                {'', 'default:torch', ''},
-        }
-})
+--minetest.register_craft({
+--        output = 'lights:woodbox 2',
+--        recipe = {
+--                {'', 'default:torch', ''},
+--                {'default:glass', 'group:wood', 'default:glass'},
+--                {'', 'default:torch', ''},
+--        }
+--})
 
 
 
-minetest.register_craft({
-        output = 'lights:glass 2',
-        recipe = {
-                {'', 'default:torch', ''},
-                {'default:torch', 'default:glass', 'default:torch'},
-                {'', 'default:torch', ''},
-        }
-})
-
-
-
-
-minetest.register_craft({
-        output = 'lights:paper 2',
-        recipe = {
-                {'default:torch', 'default:paper', 'default:torch'},
-                {'default:paper', 'default:glass', 'default:paper'},
-                {'default:torch', 'default:paper', 'default:torch'},
-        }
-})
+--minetest.register_craft({
+--        output = 'lights:glass 2',
+--        recipe = {
+--                {'', 'default:torch', ''},
+--                {'default:torch', 'default:glass', 'default:torch'},
+--                {'', 'default:torch', ''},
+--        }
+--})
 
 
 
 
-minetest.register_craft({
-        output = 'lights:wood 2',
-        recipe = {
-                {'default:stick', 'default:torch', 'default:stick'},
-                {'default:torch', 'default:glass', 'default:torch'},
-                {'default:stick', 'default:torch', 'default:stick'},
-        }
-})
+--minetest.register_craft({
+--        output = 'lights:paper 2',
+--        recipe = {
+--                {'default:torch', 'default:paper', 'default:torch'},
+--                {'default:paper', 'default:glass', 'default:paper'},
+--                {'default:torch', 'default:paper', 'default:torch'},
+--        }
+--})
 
 
 
 
-minetest.register_craft({
-        output = 'lights:magma 2',
-        recipe = {
-                {'', 'bucket:bucket_lava', ''},
-                {'', 'default:stone', ''},
-                {'', '', ''},
-        },
-        replacements = {{"bucket:bucket_lava", "bucket:bucket_empty"}},
-        
-})
+--minetest.register_craft({
+--        output = 'lights:wood 2',
+--        recipe = {
+--                {'default:stick', 'default:torch', 'default:stick'},
+--                {'default:torch', 'default:glass', 'default:torch'},
+--                {'default:stick', 'default:torch', 'default:stick'},
+--        }
+--})
+
+
+
+
+--minetest.register_craft({
+--        output = 'lights:magma 2',
+--        recipe = {
+--                {'', 'bucket:bucket_lava', ''},
+--                {'', 'default:stone', ''},
+--                {'', '', ''},
+--        },
+--        replacements = {{"bucket:bucket_lava", "bucket:bucket_empty"}},
+--        
+--})
 
 
 
@@ -597,51 +597,51 @@ minetest.register_node("lights:lamp_4", {
 
 
 
-minetest.register_craft({
-	output = 'lights:lamp_1',
-	recipe = {
-		{'', 'dye:red', ''},
-		{'default:torch', 'default:glass', 'default:torch'},
-		{'', 'default:torch', ''},
-	}
-})
+--minetest.register_craft({
+--	output = 'lights:lamp_1',
+--	recipe = {
+--		{'', 'dye:red', ''},
+--		{'default:torch', 'default:glass', 'default:torch'},
+--		{'', 'default:torch', ''},
+--	}
+--})
 
 
 
-minetest.register_craft({
-	output = 'lights:lamp_2',
-	recipe = {
-		{'', 'dyes:yellow', ''},
-		{'default:torch', 'default:wood', 'default:torch'},
-		{'', 'default:torch', ''},
-	}
-})
-
-
-
-
-
-minetest.register_craft({
-	output = 'lights:lamp_3',
-	recipe = {
-		{'', 'dyes:blue', ''},
-		{'default:torch', 'default:glass', 'default:torch'},
-		{'', 'default:torch', ''},
-	}
-})
+--minetest.register_craft({
+--	output = 'lights:lamp_2',
+--	recipe = {
+--		{'', 'dyes:yellow', ''},
+--		{'default:torch', 'default:wood', 'default:torch'},
+--		{'', 'default:torch', ''},
+--	}
+--})
 
 
 
 
 
-minetest.register_craft({
-	output = 'lights:lamp_4',
-	recipe = {
-		{'', 'dyes:yellow', ''},
-		{'default:torch', 'default:glass', 'default:torch'},
-		{'', 'default:torch', ''},
-	}
-})
+--minetest.register_craft({
+--	output = 'lights:lamp_3',
+--	recipe = {
+--		{'', 'dyes:blue', ''},
+--		{'default:torch', 'default:glass', 'default:torch'},
+--		{'', 'default:torch', ''},
+--	}
+--})
+
+
+
+
+
+--minetest.register_craft({
+--	output = 'lights:lamp_4',
+--	recipe = {
+--		{'', 'dyes:yellow', ''},
+--		{'default:torch', 'default:glass', 'default:torch'},
+--		{'', 'default:torch', ''},
+--	}
+--})
 
 
 
@@ -694,33 +694,33 @@ minetest.register_node("lights:glowstone3", {
 	
 })
 
-minetest.register_craft({
-	output = 'lights:glowstone1',
-	recipe = {
-		{'', 'default:torch', ''},
-		{'default:torch', 'default:stone', 'default:torch'},
-		{'', 'default:torch', ''},
-	}
-})
+--minetest.register_craft({
+--	output = 'lights:glowstone1',
+--	recipe = {
+--		{'', 'default:torch', ''},
+--		{'default:torch', 'default:stone', 'default:torch'},
+--		{'', 'default:torch', ''},
+--	}
+--})
 
-minetest.register_craft({
-	output = 'lights:glowstone2',
-	recipe = {
-		{'default:torch', '', 'default:torch'},
-		{'', 'default:stone', ''},
-		{'default:torch', '', 'default:torch'},
-	}
-})
+--minetest.register_craft({
+--	output = 'lights:glowstone2',
+--	recipe = {
+--		{'default:torch', '', 'default:torch'},
+--		{'', 'default:stone', ''},
+--		{'default:torch', '', 'default:torch'},
+--	}
+--})
 
 
-minetest.register_craft({
-	output = 'lights:glowstone3',
-	recipe = {
-		{'default:torch', 'default:torch', 'default:torch'},
-		{'default:torch', 'default:stone', 'default:torch'},
-		{'default:torch', 'default:torch', 'default:torch'},
-	}
-})
+--minetest.register_craft({
+--	output = 'lights:glowstone3',
+--	recipe = {
+--		{'default:torch', 'default:torch', 'default:torch'},
+--		{'default:torch', 'default:stone', 'default:torch'},
+--		{'default:torch', 'default:torch', 'default:torch'},
+--	}
+--})
 
 
 
